@@ -174,7 +174,7 @@ p {
 .btn-medium-rsvp:hover {
     color:#fff;
     text-decoration: none;
-    background: #e1b6a0;
+    background: #7b72e8;
     border: 2px solid #eaeaea;
 }
 .btn-medium-v2:hover {
@@ -226,11 +226,11 @@ p {
     text-decoration: none;
 }
 .link.rose:focus, .link.rose:hover {
-    color: #e1b6a0;
+    color: #5F4B8B;
     text-decoration: none;
 }
 .glyphicon.rose {
-    color: #e1b6a0;
+    color: #5F4B8B;
 }
 .grey-bg {
     background: #f9f9f9 !important;
@@ -243,7 +243,7 @@ img {
 }
 .hearticon {
     font-size: 22px;
-    color: #e09d7c;
+    color: #5F4B8B;
     font-weight: bold;
     z-index: 10;
 }
@@ -376,6 +376,9 @@ img.logo-white-bg {
 .navbar-default .navbar-nav>li>a {
     color: #ffffff;
 }
+.navbar-default .navbar-nav>li>a:hover {
+     color: #ffffff;
+}
 #navbar {
     font-size: 12px;
 
@@ -392,7 +395,7 @@ img.logo-white-bg {
     background-color: #ffffff;
 }
 .nav-heart-icon {
-    color: #e1b6a0;
+    color: #5F4B8B;
     font-size: 8px;
     margin-left: 8px;
     z-index: 10;
@@ -416,7 +419,7 @@ img.logo-white-bg {
     background-color: #fff;
     -webkit-background-clip: padding-box;
     background-clip: padding-box;
-    border-top: 3px solid #e1b6a0;
+    border-top: 3px solid #7b72e8;
 }
 .dropdown-menu>li>a:focus, 
 .dropdown-menu>li>a:hover {
@@ -450,13 +453,13 @@ img.logo-white-bg {
     color: #ffffff;
 }
 #navbar-transparent.caret{
-    color: #e1b6a0;
+    color: #7b72e8;
 }
 .v2 .dropdown-menu {
-    border-top: 3px solid  #e1b6a0;
+    border-top: 3px solid  #7b72e8;
 }
 .v2 .dropdown-menu>li>a:focus, .dropdown-menu>li>a:hover{
-    color: #e1b6a0;
+    color: #7b72e8;
 }
 .caret-up {
     display: inline-block;
@@ -2418,7 +2421,7 @@ img.logo-white-bg {
     padding: 150px 0 0 0;
 }
 #blog-header .headline {
-    font-family: Great Vibes;
+    font-family: munira script;
     font-size: 45px;
     font-weight: bold;
     text-align: center;
@@ -2670,8 +2673,8 @@ img.logo-white-bg {
 }
 #comment-form .btn-medium:hover {
     color:#FFF;
-    background: #968fed;
-    border: 1px solid #968fed;
+    background: #5F4B8B;
+    border: 1px solid #5F4B8B;
 }
 #comment-form label {
     display: inline-block;
@@ -3501,8 +3504,8 @@ footer {
     text-transform: uppercase;
 }
 #footer h2 {
-    font-size: 90px;
-    font-family: Great Vibes;
+    font-size: 110px;
+    font-family: munira script;
     margin-top: -5px;
     color: #ffffff;
     font-weight: 400;
@@ -3515,7 +3518,7 @@ footer {
     padding-bottom: 30px;
 }
 #footer .logo-slider {
-    color: #ffd0bc;
+    color: #bfbbf4;
 }
 #footer #with {
     font-size: 70px;
